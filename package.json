@@ -1,6 +1,6 @@
 {
   "name": "@jswork/next-times",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Invokes the iteratee function n times.",
   "homepage": "https://github.com/afeiship/next-times",
   "author": {
@@ -39,5 +39,10 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
-  }
+  },
+  "keywords": [
+    "times",
+    "react",
+    "next"
+  ]
 }
